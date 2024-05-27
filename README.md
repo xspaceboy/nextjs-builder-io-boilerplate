@@ -14,6 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Enjoy adding new page and try to use the counter component
 - Add new pages from builder.io template
 - Add new record to Nav Link data and it will affect to the header automatically
+- `npm run test` to test all Nav Links rendered properly
 
 ## Learn More
 
